@@ -1,6 +1,6 @@
-# 👋 Hello there,Ohayo gozaimasuuu, I'm Kanipakam Chetan Varun!
+# 👋 Hello there, I'm Roopesh!
 
-### 🎯 A Tech Enthusiast | CSE Undergraduate | Problem Solver
+### 🎯 AI Tech Enthusiast | CSE Undergraduate | Problem Solver
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChetanVarunKanipakam&label=Profile%20views&color=0e75b6&style=flat" alt="ChetanVarunKanipakam" /> </p>
