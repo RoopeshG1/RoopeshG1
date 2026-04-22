@@ -1,13 +1,22 @@
 # 👋 Hello there, I'm Roopesh!
 
-### 🎯 AI Tech Enthusiast | CSE Undergraduate | Problem Solver
+### 🎯 AI/ML Enthusiast | CSE Undergraduate | Aspiring Software Engineer
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChetanVarunKanipakam&label=Profile%20views&color=0e75b6&style=flat" alt="ChetanVarunKanipakam" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=roopesh&label=Profile%20views&color=0e75b6&style=flat" alt="roopesh" /> 
+</p>
+
+---
 
 ### 🚀 About Me
 
-I'm passionate about building tech that blends **logic and design**. Whether it's **AI**, **full-stack development**, or **design systems**, I enjoy creating software that’s **functional**.
+I'm a **Computer Science undergraduate at RGUKT RK Valley** with a strong interest in **Machine Learning, NLP, and Full-Stack Development**.
+
+- 🤖 Currently working on **Text Summarization using LLMs (T5, Mistral, Ollama)**
+- 📚 Preparing for **GATE (Computer Science)**
+- 🧠 Passionate about **DSA, AI systems, and real-world projects**
+- ⚡ Goal: Get into top tech companies like **Google**
 
 ---
 
@@ -16,25 +25,23 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 <div align="center">
   
   <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-  <!-- Mobile & Backend -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/NLP-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine Learning-blue?style=for-the-badge" />
   
-  <!-- Database & Tools -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -44,84 +51,48 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 ### 🏆 Achievements
 
-- 🎖 **AIR 844 in GATE CS 2025**  
-  _Demonstrates strong fundamentals in CS and Engineering Mathematics._
+- 🎯 **GATE Aspirant (CS)**  
+  _Strong focus on Algorithms, OS, DBMS, and Networks_
 
-- 🌐 **Leetcode knight-1876**  
-  _Global DSA performance._
+- 💻 Active in **DSA & Problem Solving**
 
 ---
 
 ### 💡 Projects
 
+- **📝 Text Summarization System**  
+  Built using **T5-small, Ollama, and Mistral**, supports document summarization and Q&A.
 
-- **Campus Vinculum**
-  A university Management platform with integrated chat bot and realtime messaging.
+- **🎥 YouTube Video Summarizer**  
+  Converts video → transcript → summary using **FastAPI + React**
 
- - **Community Disaster Management System**
-  A Cross Platform App to see nearby incidents posted by citizens and assign volunteers through admin dashboard.
-
- - **University Placement App**
-  A Cross Platform App to digitalize university placements.
+- **🤖 AI Chatbot (In Progress)**  
+  Full-stack chatbot using **Node.js + LLM APIs**
 
 ---
-
 
 ### 📬 Contact Me
 
-- 📧 **Email**: [chetanvarun121@gmail.com](mailto:chetanvarun121@gmail.com)  
-- 🔗 **LinkedIn**: [K Chetan Varun](https://www.linkedin.com/in/k-chetan-varun-aaa5aa280/)  
-- 💻 **GitHub**: [@ChetanVarunKanipakam](https://github.com/ChetanVarunKanipakam)
+- 📧 Email: *[Add your email here]*  
+- 🔗 LinkedIn: *[Add your LinkedIn]*  
+- 💻 GitHub: *[Add your GitHub]*  
 
 ---
-## ❤️ Let's get connected:
 
-<p align="left">
-<!--
-	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
-		<img alt="Github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
-	</a>
-	<a href="https://twitter.com/arjun3104" target="_blank">
-		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
-	</a> 
- -->
-	<a href="https://www.linkedin.com/in/chetan-varun-50aa5a328/" target="_blank">
-		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-	</a>
-	<a href="https://www.leetcode.com/u/Chetan2707/" target="_blank">
-		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
-	</a>
-</p>
-<br/>
+## 📊 GitHub Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopesh&show_icons=true&locale=en&layout=compact" /></p>
 
-## 📊 My GitHub Data:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopesh&show_icons=true&locale=en" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roopesh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanvarunkanipakam&show_icons=true&locale=en&layout=compact" alt="chetanvarunkanipakam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanvarunkanipakam&show_icons=true&locale=en" alt="chetanvarunkanipakam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanvarunkanipakam&" alt="chetanvarunkanipakam" /></p>
+---
 
 ## 😎 Fun Fact
 
-Eating stimulates my brain to find solutions which thinking can't do😄.
-
-
-<!--
-> I want to build interfaces that impress **10 girls at once** and still pass a code review! 💫
+I enjoy solving tough problems — sometimes the best ideas come when I’m not even actively thinking about them 😄
 
 ---
 
-_Thanks for visiting! Let's build something incredible together._ 🚀
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 _Let’s build something impactful with AI and software!_
