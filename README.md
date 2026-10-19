@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Roopesh!
 
-### 🎯 AI/ML Enthusiast | CSE Undergraduate | Aspiring Software Engineer
+### 🎯 AI/ML Enthusiast | CSE graduate | Aspiring Software Engineer
 
 ---
 <p align="left"> 
